@@ -1,2 +1,6 @@
-
-/* Your CSS Code here. */
+#header-1{
+	background-color:rgb(100,100,200);
+}
+#header-1  a {
+    text-decoration: none;
+}
